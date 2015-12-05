@@ -1,0 +1,35 @@
+<resources>
+    <!--LOG IN MENU-->
+    <string name="app_name">My_Shopping</string>
+    <string name="LogIn">Log In Screen</string>
+    <string name="UserName">Username</string>
+    <string name="Pass">Password</string>
+    <string name="LogInButton">Log In</string>
+    <string name="AddUser">Add\nUser</string>
+    <string name="NewSeller">Seller Account</string>
+    <string name="NewBuyer">Buyer Account</string>
+    <!--BUYER MAIN PAGE-->
+    <string name="Cart">Go To Shopping Cart</string>
+    <string name="list">List of Products</string>/
+    <string name="description">Product Descripton</string>
+    <string name="addToCart">Add to Cart</string>
+    <string name="price">Price:</string>
+    <string name="clearDatabase">Clear Database</string>
+    <string name="sellerInventory">Your Inventory</string>
+    <!--SELLER MAIN PAGE-->
+    <string name="addProduct">Add Product</string>
+    <string name="viewFinances">View Finances</string>
+    <string name="addWelcome">Fill all fields in order to add a new Product</string>
+    <string name="changeWelcome">Review and fill all fields and press confirm to change Product attributes</string>
+
+    <string name="productName">Product Name</string>
+    <string name="productDescription">Description</string>
+    <string name="invoicePrice">Invoice Price</string>
+    <string name="sellPrice">Sell Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="addToSellerInventory">Add</string>
+    <string name="goBack">Go Back</string>
+    <string name="quantityChange">Input the new quantity</string>
+
+
+</resources>
