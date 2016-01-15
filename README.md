@@ -1,7 +1,7 @@
 # My_Shopping
 
 Installation:
-Go to http://developer.android.com/sdk/index.html to download the Android Studio IDE and SDK tools.
+Go to [http://developer.android.com/sdk/index.html](http://developer.android.com/sdk/index.html) to download the Android Studio IDE and SDK tools.
 
 IDE:
 Android Studio
