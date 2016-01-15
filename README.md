@@ -19,5 +19,5 @@ When logging in as a seller, the user is able to see their current inventory lis
 Cristian Navarrete
 
 
-Upcoming Features:
+**Upcoming Features:**
 UI overhaul, more payment options, more seller options (delete item from inventory, etc), ability to add thumbnail pictures for each product
